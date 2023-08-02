@@ -1,0 +1,8 @@
+node_modules/
+
+
+# npm的Lock文件
+package-lock.json
+
+# pnpm的lock文件
+pnpm-lock.json
