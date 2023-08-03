@@ -32,5 +32,8 @@
   },
   "peerDependencies": {
     "react": ">=18"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.22.6"
   }
 }

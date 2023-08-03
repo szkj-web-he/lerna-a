@@ -28,5 +28,6 @@
     "skipDefaultLibCheck": false,
     "noEmit": true,
     "jsx": "react-jsx"
-  }
+  },
+  "include": ["./packages/**/*", "./View/src/**/*"]
 }

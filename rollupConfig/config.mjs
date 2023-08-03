@@ -61,7 +61,7 @@ export default (input, output) => {
         image(),
         progress(),
       ],
-      external: ["react", "react-dom"],
+      external: ["react", "react-dom", /^he\-[^-]+$/],
     },
     {
       input,
